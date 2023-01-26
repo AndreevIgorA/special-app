@@ -5,4 +5,4 @@
         echo $g . ' ' . $h . ' ' . $i . PHP_EOL;
     }
 
-    displayParameters2(2, 1, 8);
+    displayParameters2(2, 1);
